@@ -1,0 +1,19 @@
+
+
+
+.LoginId{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+
+    background: url("https://images.pexels.com/photos/1694000/pexels-photo-1694000.jpeg?auto=compress&cs=tinysrgb&w=1600");
+}
+
+.textInfo{
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 40px;
+}

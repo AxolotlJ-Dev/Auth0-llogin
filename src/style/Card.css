@@ -1,0 +1,10 @@
+
+
+
+.posCard{
+    height: 100vh;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
